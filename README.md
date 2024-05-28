@@ -14,4 +14,4 @@ Simulate the Orszag-Tang vortex MHD problem
 python constrainedtransport.py
 ```
 
-![Simulation](./constrainedtransport.png)
+![Simulation](./constrainedtransport.gif)
